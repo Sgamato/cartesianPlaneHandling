@@ -9,6 +9,11 @@ import cartesianPlaneHandling.beans.SegmentBean;
 
 public class SegmentUtils {
 
+	
+	/**
+	 * given a set of collinear subsegments that pass through at least N points, this function will return every segment possible
+	 * to obtain a segment, a couple of subsegment should share a point in common. 
+	 * */
 	public static List<SegmentBean> getAllSegmentsFromCollinearList(List<PointsListBean> collinearPointsList) {
 		List<SegmentBean> segmentList = new ArrayList<>();
 

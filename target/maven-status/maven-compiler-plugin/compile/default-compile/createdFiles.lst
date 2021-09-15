@@ -1,0 +1,11 @@
+cartesianPlaneHandling\exceptions\AlreadyExistingPointException.class
+cartesianPlaneHandling\services\PlaneHandlingService.class
+cartesianPlaneHandling\beans\PlanePointBean.class
+cartesianPlaneHandling\services\impl\PlaneHandlingServiceImpl.class
+cartesianPlaneHandling\utils\Combinator.class
+cartesianPlaneHandling\CartesianPlaneApp.class
+cartesianPlaneHandling\beans\PointsListBean.class
+cartesianPlaneHandling\beans\SegmentBean.class
+cartesianPlaneHandling\utils\CollinearUtils.class
+cartesianPlaneHandling\controllers\CartesianController.class
+cartesianPlaneHandling\utils\SegmentUtils.class

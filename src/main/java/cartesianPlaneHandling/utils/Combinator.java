@@ -21,7 +21,7 @@ public class Combinator {
 
 	protected void loadListRecursively(PlanePointBean pointsArray[], PlanePointBean data[], int startIndex, int endIndex, int dataIndex, int combinationCount)
 	{
-		// Current combination is ready to be printed, print it
+		// Current combination is ready to be added, add it
 		if (dataIndex == combinationCount)
 		{
 			List<PlanePointBean> temporaryList = new ArrayList<>();

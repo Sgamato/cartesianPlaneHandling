@@ -984,3 +984,72 @@ java.lang.UnsupportedOperationException: null
 2021-09-15 16:07:51,148|INFO|cartesianPlaneHandling.controllers.CartesianController|Deleted 7 points.
 2021-09-15 16:07:54,373|ERROR|cartesianPlaneHandling.controllers.CartesianController|Point (1.0,1.0) already exists.
 2021-09-15 16:07:57,664|INFO|cartesianPlaneHandling.controllers.CartesianController|Deleted 7 points.
+2021-09-15 16:18:38,651|INFO|cartesianPlaneHandling.ControllerTest|Starting ControllerTest using Java 1.8.0_221 on CWDBKHMQ2 with PID 24656 (started by sgarbma1 in C:\DEVELOPMENT\SPRING\cartesianplanehandlingMS\cartesianPlaneHandling)
+2021-09-15 16:18:38,655|INFO|cartesianPlaneHandling.ControllerTest|No active profile set, falling back to default profiles: default
+2021-09-15 16:18:40,905|INFO|cartesianPlaneHandling.ControllerTest|Started ControllerTest in 2.749 seconds (JVM running for 3.923)
+2021-09-15 16:18:41,589|INFO|org.springframework.mock.web.MockServletContext|Initializing Spring TestDispatcherServlet ''
+2021-09-15 16:18:41,589|INFO|org.springframework.test.web.servlet.TestDispatcherServlet|Initializing Servlet ''
+2021-09-15 16:18:41,590|INFO|org.springframework.test.web.servlet.TestDispatcherServlet|Completed initialization in 1 ms
+2021-09-15 16:18:41,678|INFO|org.springframework.mock.web.MockServletContext|Initializing Spring TestDispatcherServlet ''
+2021-09-15 16:18:41,678|INFO|org.springframework.test.web.servlet.TestDispatcherServlet|Initializing Servlet ''
+2021-09-15 16:18:41,678|INFO|org.springframework.test.web.servlet.TestDispatcherServlet|Completed initialization in 0 ms
+2021-09-15 16:19:37,089|INFO|cartesianPlaneHandling.ControllerTest|Starting ControllerTest using Java 1.8.0_221 on CWDBKHMQ2 with PID 25424 (started by sgarbma1 in C:\DEVELOPMENT\SPRING\cartesianplanehandlingMS\cartesianPlaneHandling)
+2021-09-15 16:19:37,093|INFO|cartesianPlaneHandling.ControllerTest|No active profile set, falling back to default profiles: default
+2021-09-15 16:19:39,398|INFO|cartesianPlaneHandling.ControllerTest|Started ControllerTest in 2.778 seconds (JVM running for 3.926)
+2021-09-15 16:19:40,018|INFO|org.springframework.mock.web.MockServletContext|Initializing Spring TestDispatcherServlet ''
+2021-09-15 16:19:40,018|INFO|org.springframework.test.web.servlet.TestDispatcherServlet|Initializing Servlet ''
+2021-09-15 16:19:40,019|INFO|org.springframework.test.web.servlet.TestDispatcherServlet|Completed initialization in 1 ms
+2021-09-15 16:19:40,113|INFO|org.springframework.mock.web.MockServletContext|Initializing Spring TestDispatcherServlet ''
+2021-09-15 16:19:40,113|INFO|org.springframework.test.web.servlet.TestDispatcherServlet|Initializing Servlet ''
+2021-09-15 16:19:40,114|INFO|org.springframework.test.web.servlet.TestDispatcherServlet|Completed initialization in 0 ms
+2021-09-15 16:22:18,338|INFO|cartesianPlaneHandling.ControllerTest|Starting ControllerTest using Java 1.8.0_221 on CWDBKHMQ2 with PID 12736 (started by sgarbma1 in C:\DEVELOPMENT\SPRING\cartesianplanehandlingMS\cartesianPlaneHandling)
+2021-09-15 16:22:18,342|INFO|cartesianPlaneHandling.ControllerTest|No active profile set, falling back to default profiles: default
+2021-09-15 16:22:20,575|INFO|cartesianPlaneHandling.ControllerTest|Started ControllerTest in 2.757 seconds (JVM running for 3.92)
+2021-09-15 16:22:21,114|INFO|org.springframework.mock.web.MockServletContext|Initializing Spring TestDispatcherServlet ''
+2021-09-15 16:22:21,114|INFO|org.springframework.test.web.servlet.TestDispatcherServlet|Initializing Servlet ''
+2021-09-15 16:22:21,114|INFO|org.springframework.test.web.servlet.TestDispatcherServlet|Completed initialization in 0 ms
+2021-09-15 16:22:21,185|INFO|org.springframework.mock.web.MockServletContext|Initializing Spring TestDispatcherServlet ''
+2021-09-15 16:22:21,185|INFO|org.springframework.test.web.servlet.TestDispatcherServlet|Initializing Servlet ''
+2021-09-15 16:22:21,186|INFO|org.springframework.test.web.servlet.TestDispatcherServlet|Completed initialization in 1 ms
+2021-09-15 16:35:01,087|INFO|cartesianPlaneHandling.CartesianPlaneApp|Starting CartesianPlaneApp using Java 1.8.0_221 on CWDBKHMQ2 with PID 17364 (C:\DEVELOPMENT\SPRING\cartesianplanehandlingMS\cartesianPlaneHandling\target\classes started by sgarbma1 in C:\DEVELOPMENT\SPRING\cartesianplanehandlingMS\cartesianPlaneHandling)
+2021-09-15 16:35:01,090|INFO|cartesianPlaneHandling.CartesianPlaneApp|No active profile set, falling back to default profiles: default
+2021-09-15 16:35:02,686|INFO|org.springframework.boot.web.embedded.tomcat.TomcatWebServer|Tomcat initialized with port(s): 8080 (http)
+2021-09-15 16:35:02,700|INFO|org.apache.catalina.core.StandardService|Starting service [Tomcat]
+2021-09-15 16:35:02,701|INFO|org.apache.catalina.core.StandardEngine|Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-09-15 16:35:02,819|INFO|org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]|Initializing Spring embedded WebApplicationContext
+2021-09-15 16:35:02,820|INFO|org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext|Root WebApplicationContext: initialization completed in 1662 ms
+2021-09-15 16:35:03,179|INFO|org.springframework.boot.web.embedded.tomcat.TomcatWebServer|Tomcat started on port(s): 8080 (http) with context path ''
+2021-09-15 16:35:03,191|INFO|cartesianPlaneHandling.CartesianPlaneApp|Started CartesianPlaneApp in 2.659 seconds (JVM running for 3.236)
+2021-09-15 16:35:43,491|INFO|cartesianPlaneHandling.CartesianPlaneApp|Starting CartesianPlaneApp using Java 1.8.0_221 on CWDBKHMQ2 with PID 19124 (C:\DEVELOPMENT\SPRING\cartesianplanehandlingMS\cartesianPlaneHandling\target\classes started by sgarbma1 in C:\DEVELOPMENT\SPRING\cartesianplanehandlingMS\cartesianPlaneHandling)
+2021-09-15 16:35:43,494|INFO|cartesianPlaneHandling.CartesianPlaneApp|No active profile set, falling back to default profiles: default
+2021-09-15 16:35:44,807|INFO|org.springframework.boot.web.embedded.tomcat.TomcatWebServer|Tomcat initialized with port(s): 8080 (http)
+2021-09-15 16:35:44,817|INFO|org.apache.catalina.core.StandardService|Starting service [Tomcat]
+2021-09-15 16:35:44,818|INFO|org.apache.catalina.core.StandardEngine|Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-09-15 16:35:44,912|INFO|org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]|Initializing Spring embedded WebApplicationContext
+2021-09-15 16:35:44,912|INFO|org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext|Root WebApplicationContext: initialization completed in 1357 ms
+2021-09-15 16:35:45,213|INFO|org.springframework.boot.web.embedded.tomcat.TomcatWebServer|Tomcat started on port(s): 8080 (http) with context path ''
+2021-09-15 16:35:45,222|INFO|cartesianPlaneHandling.CartesianPlaneApp|Started CartesianPlaneApp in 2.13 seconds (JVM running for 2.579)
+2021-09-15 16:35:54,947|INFO|org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]|Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-15 16:35:54,947|INFO|org.springframework.web.servlet.DispatcherServlet|Initializing Servlet 'dispatcherServlet'
+2021-09-15 16:35:54,950|INFO|org.springframework.web.servlet.DispatcherServlet|Completed initialization in 1 ms
+2021-09-15 16:39:24,520|INFO|cartesianPlaneHandling.CartesianPlaneApp|Starting CartesianPlaneApp using Java 1.8.0_221 on CWDBKHMQ2 with PID 9620 (C:\DEVELOPMENT\SPRING\cartesianplanehandlingMS\cartesianPlaneHandling\target\classes started by sgarbma1 in C:\DEVELOPMENT\SPRING\cartesianplanehandlingMS\cartesianPlaneHandling)
+2021-09-15 16:39:24,523|INFO|cartesianPlaneHandling.CartesianPlaneApp|No active profile set, falling back to default profiles: default
+2021-09-15 16:39:25,948|INFO|org.springframework.boot.web.embedded.tomcat.TomcatWebServer|Tomcat initialized with port(s): 8080 (http)
+2021-09-15 16:39:25,957|INFO|org.apache.catalina.core.StandardService|Starting service [Tomcat]
+2021-09-15 16:39:25,958|INFO|org.apache.catalina.core.StandardEngine|Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-09-15 16:39:26,060|INFO|org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]|Initializing Spring embedded WebApplicationContext
+2021-09-15 16:39:26,060|INFO|org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext|Root WebApplicationContext: initialization completed in 1483 ms
+2021-09-15 16:39:26,392|INFO|org.springframework.boot.web.embedded.tomcat.TomcatWebServer|Tomcat started on port(s): 8080 (http) with context path ''
+2021-09-15 16:39:26,400|INFO|cartesianPlaneHandling.CartesianPlaneApp|Started CartesianPlaneApp in 2.313 seconds (JVM running for 2.845)
+2021-09-15 21:55:09,844|INFO|cartesianPlaneHandling.CartesianPlaneApp|Starting CartesianPlaneApp using Java 1.8.0_221 on CWDBKHMQ2 with PID 25248 (C:\DEVELOPMENT\SPRING\cartesianplanehandlingMS\cartesianPlaneHandling\target\classes started by sgarbma1 in C:\DEVELOPMENT\SPRING\cartesianplanehandlingMS\cartesianPlaneHandling)
+2021-09-15 21:55:09,849|INFO|cartesianPlaneHandling.CartesianPlaneApp|No active profile set, falling back to default profiles: default
+2021-09-15 21:55:11,141|INFO|org.springframework.boot.web.embedded.tomcat.TomcatWebServer|Tomcat initialized with port(s): 8080 (http)
+2021-09-15 21:55:11,155|INFO|org.apache.catalina.core.StandardService|Starting service [Tomcat]
+2021-09-15 21:55:11,156|INFO|org.apache.catalina.core.StandardEngine|Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-09-15 21:55:11,277|INFO|org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]|Initializing Spring embedded WebApplicationContext
+2021-09-15 21:55:11,277|INFO|org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext|Root WebApplicationContext: initialization completed in 1359 ms
+2021-09-15 21:55:11,843|INFO|org.springframework.boot.web.embedded.tomcat.TomcatWebServer|Tomcat started on port(s): 8080 (http) with context path ''
+2021-09-15 21:55:11,854|INFO|cartesianPlaneHandling.CartesianPlaneApp|Started CartesianPlaneApp in 2.626 seconds (JVM running for 4.403)
+2021-09-15 21:55:12,715|INFO|org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]|Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-15 21:55:12,716|INFO|org.springframework.web.servlet.DispatcherServlet|Initializing Servlet 'dispatcherServlet'
+2021-09-15 21:55:12,717|INFO|org.springframework.web.servlet.DispatcherServlet|Completed initialization in 1 ms
