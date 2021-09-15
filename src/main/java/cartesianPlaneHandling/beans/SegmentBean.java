@@ -2,7 +2,6 @@ package cartesianPlaneHandling.beans;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class SegmentBean {
 	private List<PointsListBean> segment = new ArrayList<>();
