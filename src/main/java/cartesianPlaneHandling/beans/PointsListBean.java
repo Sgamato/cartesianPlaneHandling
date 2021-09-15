@@ -8,8 +8,8 @@ import cartesianPlaneHandling.exceptions.AlreadyExistingPointException;
 public class PointsListBean {
 	private final List<PlanePointBean> pointList = new ArrayList<>();
 
-	public PointsListBean(List<PlanePointBean> pointsList) {
-		pointsList.addAll(pointsList);
+	public PointsListBean(List<PlanePointBean> list) {
+		pointList.addAll(list);
 	}
 	
 	public void addPointToList(PlanePointBean pointToAdd) throws AlreadyExistingPointException {

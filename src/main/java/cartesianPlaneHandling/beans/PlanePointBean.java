@@ -2,8 +2,12 @@ package cartesianPlaneHandling.beans;
 
 import java.util.Objects;
 
+import org.springframework.lang.NonNull;
+
 public class PlanePointBean {
+	@NonNull
 	private double x;
+	@NonNull
 	private double y;
 	
 	public PlanePointBean() {}
