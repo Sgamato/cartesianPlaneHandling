@@ -55,13 +55,12 @@ public class CollinearUtils {
 	/**
 	 *Given a point list and a point count, returns every possible combination
 	 */
-	public static List<PointsListBean> getAllPointsCombinationsFromList(int pointsToBeTouchedCount,
-			PointsListBean pointsList) {
+	public static List<PointsListBean> getAllPointsCombinationsFromList(int pointsToBeTouchedCount, PointsListBean pointsList) {
 		try {
 		Combinator.getInstance().clearCombinations();
-		Combinator.getInstance().loadCombinations(pointsList.getPointsList().toArray(new PlanePointBean[pointsList.getPointsList().size()]), 
-												   pointsList.getPointsList().size(),
-												   pointsToBeTouchedCount);
+		PlanePointBean[] planePointsArray = pointsList.getPointsList()
+													  .toArray(new PlanePointBean[pointsList.getPointsList().size()]);
+		Combinator.getInstance().loadCombinations(planePointsArray, pointsList.getPointsList().size(), pointsToBeTouchedCount);
 		return Combinator.getInstance().getList();
 		} catch (Exception e) {
 			log.error(e.getMessage());
